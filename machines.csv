@@ -1,0 +1,13 @@
+machine_id,line_id,machine_type,product_id,daily_capacity
+A-01,A,CNC Mill,P100,520
+A-02,A,CNC Lathe,P200,430
+A-03,A,CNC Lathe,P500,400
+B-01,B,Press Brake,P100,560
+B-02,B,Laser Cutter,P400,610
+B-03,B,Stamping Press,P600,700
+C-01,C,CNC Mill,P300,380
+C-02,C,CNC Mill,P300,390
+C-03,C,CNC Lathe,P200,440
+D-01,D,CNC Lathe,P500,410
+D-02,D,Stamping Press,P600,690
+D-03,D,Laser Cutter,P400,600

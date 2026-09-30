@@ -1,0 +1,8 @@
+reason,events,minutes,pct_of_total,cumulative_pct
+Sensor fault,15,712,22.2,22.2
+Operator unavailable,9,612,19.1,41.3
+Material jam,7,570,17.8,59.0
+Scheduled maintenance,6,446,13.9,72.9
+Tool wear,11,369,11.5,84.4
+Changeover,5,314,9.8,94.2
+Power/utility issue,2,186,5.8,100.0

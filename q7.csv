@@ -1,0 +1,5 @@
+product_name,month,on_hand_units,reorder_point,pct_of_reorder_point,status
+Hydraulic Valve Body,2025-10,2684,3000,89.0,BELOW REORDER POINT
+Hydraulic Valve Body,2025-11,3103,3000,103.0,watch
+Hydraulic Valve Body,2025-12,3445,3000,115.0,watch
+Sensor Mount,2025-12,6790,5500,123.0,watch

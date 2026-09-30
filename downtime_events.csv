@@ -1,0 +1,360 @@
+event_id,machine_id,event_date,duration_minutes,reason
+1,A-01,2025-01-01,26,Scheduled maintenance
+2,A-01,2025-01-03,41,Scheduled maintenance
+3,A-01,2025-01-07,46,Sensor fault
+4,A-01,2025-01-10,20,Scheduled maintenance
+5,A-01,2025-01-28,52,Material jam
+6,A-01,2025-02-14,33,Tool wear
+7,A-01,2025-03-07,88,Scheduled maintenance
+8,A-01,2025-03-13,58,Tool wear
+9,A-01,2025-04-07,31,Sensor fault
+10,A-01,2025-04-14,17,Changeover
+11,A-01,2025-05-16,71,Sensor fault
+12,A-01,2025-05-19,35,Tool wear
+13,A-01,2025-05-29,24,Material jam
+14,A-01,2025-06-02,61,Changeover
+15,A-01,2025-06-12,30,Scheduled maintenance
+16,A-01,2025-06-17,61,Scheduled maintenance
+17,A-01,2025-07-02,20,Tool wear
+18,A-01,2025-07-04,34,Tool wear
+19,A-01,2025-07-09,87,Tool wear
+20,A-01,2025-07-21,26,Material jam
+21,A-01,2025-08-14,19,Changeover
+22,A-01,2025-09-01,67,Scheduled maintenance
+23,A-01,2025-09-01,103,Tool wear
+24,A-01,2025-09-04,29,Scheduled maintenance
+25,A-01,2025-09-10,28,Material jam
+26,A-01,2025-10-03,80,Sensor fault
+27,A-01,2025-10-15,65,Scheduled maintenance
+28,A-01,2025-11-12,93,Changeover
+29,A-01,2025-11-20,17,Sensor fault
+30,A-01,2025-12-26,47,Scheduled maintenance
+31,A-02,2025-01-14,20,Scheduled maintenance
+32,A-02,2025-02-25,20,Scheduled maintenance
+33,A-02,2025-03-18,22,Tool wear
+34,A-02,2025-03-26,30,Material jam
+35,A-02,2025-04-07,48,Sensor fault
+36,A-02,2025-05-20,29,Changeover
+37,A-02,2025-06-02,17,Operator unavailable
+38,A-02,2025-06-17,54,Tool wear
+39,A-02,2025-06-19,16,Changeover
+40,A-02,2025-07-01,26,Changeover
+41,A-02,2025-07-01,12,Tool wear
+42,A-02,2025-07-09,25,Sensor fault
+43,A-02,2025-08-06,38,Sensor fault
+44,A-02,2025-08-19,20,Scheduled maintenance
+45,A-02,2025-09-01,80,Changeover
+46,A-02,2025-09-23,94,Operator unavailable
+47,A-02,2025-10-01,32,Tool wear
+48,A-02,2025-10-17,20,Scheduled maintenance
+49,A-02,2025-10-24,52,Tool wear
+50,A-02,2025-11-10,48,Tool wear
+51,A-02,2025-11-14,25,Changeover
+52,A-02,2025-11-14,20,Scheduled maintenance
+53,A-02,2025-11-24,135,Changeover
+54,A-02,2025-12-16,21,Changeover
+55,A-02,2025-12-17,48,Tool wear
+56,A-02,2025-12-19,92,Scheduled maintenance
+57,A-02,2025-12-19,15,Material jam
+58,A-03,2025-01-03,36,Material jam
+59,A-03,2025-01-06,29,Sensor fault
+60,A-03,2025-01-06,16,Material jam
+61,A-03,2025-01-29,31,Changeover
+62,A-03,2025-02-07,44,Operator unavailable
+63,A-03,2025-03-21,21,Changeover
+64,A-03,2025-04-03,76,Material jam
+65,A-03,2025-05-12,108,Changeover
+66,A-03,2025-05-14,16,Tool wear
+67,A-03,2025-05-20,24,Changeover
+68,A-03,2025-06-03,29,Sensor fault
+69,A-03,2025-06-24,69,Power/utility issue
+70,A-03,2025-07-01,28,Sensor fault
+71,A-03,2025-08-01,57,Material jam
+72,A-03,2025-08-20,38,Material jam
+73,A-03,2025-09-02,31,Tool wear
+74,A-03,2025-09-12,24,Power/utility issue
+75,A-03,2025-10-01,46,Changeover
+76,A-03,2025-10-13,48,Tool wear
+77,A-03,2025-11-07,19,Sensor fault
+78,A-03,2025-11-12,59,Sensor fault
+79,A-03,2025-12-18,28,Scheduled maintenance
+80,B-01,2025-01-06,19,Material jam
+81,B-01,2025-01-14,46,Sensor fault
+82,B-01,2025-01-16,52,Tool wear
+83,B-01,2025-02-04,29,Scheduled maintenance
+84,B-01,2025-02-11,52,Scheduled maintenance
+85,B-01,2025-03-06,22,Scheduled maintenance
+86,B-01,2025-03-20,65,Changeover
+87,B-01,2025-04-07,23,Changeover
+88,B-01,2025-04-15,13,Tool wear
+89,B-01,2025-05-02,23,Operator unavailable
+90,B-01,2025-05-14,28,Tool wear
+91,B-01,2025-05-14,88,Changeover
+92,B-01,2025-05-28,66,Scheduled maintenance
+93,B-01,2025-07-03,34,Changeover
+94,B-01,2025-07-07,20,Scheduled maintenance
+95,B-01,2025-07-23,20,Sensor fault
+96,B-01,2025-07-25,15,Tool wear
+97,B-01,2025-08-01,45,Scheduled maintenance
+98,B-01,2025-08-07,42,Tool wear
+99,B-01,2025-08-20,178,Sensor fault
+100,B-01,2025-08-21,8,Changeover
+101,B-01,2025-08-29,25,Scheduled maintenance
+102,B-01,2025-08-29,38,Operator unavailable
+103,B-01,2025-09-26,17,Tool wear
+104,B-01,2025-10-08,27,Sensor fault
+105,B-01,2025-10-09,23,Changeover
+106,B-01,2025-11-03,37,Operator unavailable
+107,B-01,2025-11-11,44,Operator unavailable
+108,B-01,2025-11-17,11,Operator unavailable
+109,B-02,2025-02-12,22,Scheduled maintenance
+110,B-02,2025-02-25,8,Tool wear
+111,B-02,2025-02-28,31,Material jam
+112,B-02,2025-03-06,11,Tool wear
+113,B-02,2025-03-10,16,Sensor fault
+114,B-02,2025-03-21,39,Power/utility issue
+115,B-02,2025-04-18,40,Tool wear
+116,B-02,2025-04-29,22,Scheduled maintenance
+117,B-02,2025-05-02,38,Changeover
+118,B-02,2025-05-07,69,Tool wear
+119,B-02,2025-07-09,17,Tool wear
+120,B-02,2025-07-09,54,Changeover
+121,B-02,2025-07-18,35,Tool wear
+122,B-02,2025-07-24,61,Sensor fault
+123,B-02,2025-07-25,17,Operator unavailable
+124,B-02,2025-08-01,10,Sensor fault
+125,B-02,2025-08-05,49,Tool wear
+126,B-02,2025-09-12,38,Material jam
+127,B-02,2025-09-26,69,Material jam
+128,B-02,2025-10-17,24,Scheduled maintenance
+129,B-02,2025-10-21,26,Changeover
+130,B-02,2025-10-22,19,Changeover
+131,B-02,2025-11-03,35,Power/utility issue
+132,B-02,2025-11-13,76,Changeover
+133,B-02,2025-11-26,118,Material jam
+134,B-02,2025-12-01,63,Scheduled maintenance
+135,B-02,2025-12-18,12,Changeover
+136,B-02,2025-12-25,18,Operator unavailable
+137,B-03,2025-01-07,24,Tool wear
+138,B-03,2025-01-09,20,Scheduled maintenance
+139,B-03,2025-01-13,82,Tool wear
+140,B-03,2025-01-14,20,Scheduled maintenance
+141,B-03,2025-01-14,30,Scheduled maintenance
+142,B-03,2025-01-16,20,Scheduled maintenance
+143,B-03,2025-01-22,63,Power/utility issue
+144,B-03,2025-01-27,17,Tool wear
+145,B-03,2025-02-10,65,Tool wear
+146,B-03,2025-02-21,21,Sensor fault
+147,B-03,2025-03-31,113,Operator unavailable
+148,B-03,2025-04-15,93,Sensor fault
+149,B-03,2025-05-06,14,Sensor fault
+150,B-03,2025-05-13,63,Scheduled maintenance
+151,B-03,2025-05-19,27,Scheduled maintenance
+152,B-03,2025-05-26,47,Operator unavailable
+153,B-03,2025-06-10,45,Tool wear
+154,B-03,2025-06-12,12,Material jam
+155,B-03,2025-06-13,89,Power/utility issue
+156,B-03,2025-06-16,10,Changeover
+157,B-03,2025-06-18,60,Operator unavailable
+158,B-03,2025-06-18,56,Tool wear
+159,B-03,2025-07-10,48,Operator unavailable
+160,B-03,2025-07-18,77,Material jam
+161,B-03,2025-07-23,20,Scheduled maintenance
+162,B-03,2025-07-31,62,Material jam
+163,B-03,2025-08-01,15,Tool wear
+164,B-03,2025-08-22,24,Material jam
+165,B-03,2025-08-28,52,Material jam
+166,B-03,2025-09-03,70,Material jam
+167,B-03,2025-10-28,17,Changeover
+168,B-03,2025-11-21,49,Sensor fault
+169,B-03,2025-12-04,37,Scheduled maintenance
+170,B-03,2025-12-09,17,Material jam
+171,B-03,2025-12-22,55,Sensor fault
+172,B-03,2025-12-26,23,Scheduled maintenance
+173,B-03,2025-12-30,43,Tool wear
+174,C-01,2025-01-08,16,Changeover
+175,C-01,2025-01-21,22,Tool wear
+176,C-01,2025-01-24,42,Scheduled maintenance
+177,C-01,2025-01-27,20,Scheduled maintenance
+178,C-01,2025-02-27,18,Changeover
+179,C-01,2025-03-03,85,Power/utility issue
+180,C-01,2025-03-06,28,Tool wear
+181,C-01,2025-03-18,24,Material jam
+182,C-01,2025-03-20,20,Scheduled maintenance
+183,C-01,2025-03-28,11,Tool wear
+184,C-01,2025-04-09,127,Material jam
+185,C-01,2025-04-10,67,Material jam
+186,C-01,2025-04-15,20,Scheduled maintenance
+187,C-01,2025-05-20,18,Sensor fault
+188,C-01,2025-06-30,66,Sensor fault
+189,C-01,2025-07-18,30,Material jam
+190,C-01,2025-07-24,32,Power/utility issue
+191,C-01,2025-08-08,60,Material jam
+192,C-01,2025-08-19,111,Sensor fault
+193,C-01,2025-08-19,24,Material jam
+194,C-01,2025-08-26,22,Scheduled maintenance
+195,C-01,2025-08-26,15,Changeover
+196,C-01,2025-08-27,21,Sensor fault
+197,C-01,2025-09-11,29,Tool wear
+198,C-01,2025-11-05,25,Tool wear
+199,C-01,2025-11-05,27,Material jam
+200,C-01,2025-12-25,16,Tool wear
+201,C-01,2025-12-26,19,Changeover
+202,C-02,2025-01-07,120,Scheduled maintenance
+203,C-02,2025-01-14,32,Tool wear
+204,C-02,2025-02-04,25,Changeover
+205,C-02,2025-02-06,37,Changeover
+206,C-02,2025-02-06,36,Scheduled maintenance
+207,C-02,2025-02-13,98,Scheduled maintenance
+208,C-02,2025-02-17,35,Sensor fault
+209,C-02,2025-03-12,46,Tool wear
+210,C-02,2025-03-18,24,Tool wear
+211,C-02,2025-04-10,23,Tool wear
+212,C-02,2025-04-14,9,Tool wear
+213,C-02,2025-05-06,73,Material jam
+214,C-02,2025-06-06,195,Material jam
+215,C-02,2025-06-11,33,Operator unavailable
+216,C-02,2025-06-16,58,Tool wear
+217,C-02,2025-07-01,115,Material jam
+218,C-02,2025-07-02,17,Sensor fault
+219,C-02,2025-07-04,37,Material jam
+220,C-02,2025-07-09,51,Changeover
+221,C-02,2025-07-10,58,Tool wear
+222,C-02,2025-07-14,88,Sensor fault
+223,C-02,2025-07-14,20,Sensor fault
+224,C-02,2025-07-16,59,Operator unavailable
+225,C-02,2025-07-18,10,Tool wear
+226,C-02,2025-07-22,40,Operator unavailable
+227,C-02,2025-07-22,123,Changeover
+228,C-02,2025-07-28,65,Sensor fault
+229,C-02,2025-07-31,134,Operator unavailable
+230,C-02,2025-07-31,42,Sensor fault
+231,C-02,2025-08-04,64,Operator unavailable
+232,C-02,2025-08-06,21,Scheduled maintenance
+233,C-02,2025-08-12,78,Changeover
+234,C-02,2025-08-14,75,Material jam
+235,C-02,2025-08-27,27,Tool wear
+236,C-02,2025-08-28,45,Power/utility issue
+237,C-02,2025-08-28,62,Operator unavailable
+238,C-02,2025-08-29,36,Sensor fault
+239,C-02,2025-08-29,21,Tool wear
+240,C-02,2025-09-11,76,Scheduled maintenance
+241,C-02,2025-09-25,37,Material jam
+242,C-02,2025-10-08,76,Sensor fault
+243,C-02,2025-10-09,95,Scheduled maintenance
+244,C-02,2025-10-13,175,Operator unavailable
+245,C-02,2025-10-17,15,Sensor fault
+246,C-02,2025-10-20,20,Operator unavailable
+247,C-02,2025-10-22,68,Sensor fault
+248,C-02,2025-10-22,26,Sensor fault
+249,C-02,2025-10-23,60,Sensor fault
+250,C-02,2025-11-03,41,Sensor fault
+251,C-02,2025-11-14,141,Power/utility issue
+252,C-02,2025-11-21,83,Sensor fault
+253,C-02,2025-12-05,40,Sensor fault
+254,C-02,2025-12-05,61,Tool wear
+255,C-02,2025-12-10,25,Operator unavailable
+256,C-02,2025-12-31,38,Material jam
+257,C-03,2025-01-08,17,Tool wear
+258,C-03,2025-01-13,8,Tool wear
+259,C-03,2025-01-13,84,Sensor fault
+260,C-03,2025-01-17,35,Changeover
+261,C-03,2025-01-23,66,Material jam
+262,C-03,2025-01-28,31,Scheduled maintenance
+263,C-03,2025-02-20,15,Changeover
+264,C-03,2025-02-27,31,Tool wear
+265,C-03,2025-02-28,39,Scheduled maintenance
+266,C-03,2025-03-06,19,Operator unavailable
+267,C-03,2025-03-27,23,Tool wear
+268,C-03,2025-04-07,57,Scheduled maintenance
+269,C-03,2025-04-14,43,Sensor fault
+270,C-03,2025-06-05,43,Scheduled maintenance
+271,C-03,2025-06-25,69,Material jam
+272,C-03,2025-07-04,34,Scheduled maintenance
+273,C-03,2025-08-12,35,Scheduled maintenance
+274,C-03,2025-08-15,19,Tool wear
+275,C-03,2025-09-11,17,Material jam
+276,C-03,2025-09-19,51,Changeover
+277,C-03,2025-09-29,29,Tool wear
+278,C-03,2025-10-01,24,Material jam
+279,C-03,2025-10-13,77,Changeover
+280,C-03,2025-10-15,32,Operator unavailable
+281,C-03,2025-10-22,64,Sensor fault
+282,C-03,2025-10-31,36,Changeover
+283,C-03,2025-11-20,42,Sensor fault
+284,C-03,2025-11-24,30,Tool wear
+285,C-03,2025-12-05,8,Operator unavailable
+286,C-03,2025-12-12,20,Scheduled maintenance
+287,C-03,2025-12-12,24,Material jam
+288,C-03,2025-12-18,20,Scheduled maintenance
+289,D-01,2025-02-11,35,Scheduled maintenance
+290,D-01,2025-02-24,120,Scheduled maintenance
+291,D-01,2025-02-26,120,Scheduled maintenance
+292,D-01,2025-03-11,13,Changeover
+293,D-01,2025-03-14,13,Changeover
+294,D-01,2025-04-22,38,Sensor fault
+295,D-01,2025-04-29,24,Power/utility issue
+296,D-01,2025-04-29,19,Operator unavailable
+297,D-01,2025-05-13,36,Tool wear
+298,D-01,2025-06-05,32,Material jam
+299,D-01,2025-06-09,20,Scheduled maintenance
+300,D-01,2025-06-24,21,Sensor fault
+301,D-01,2025-07-01,64,Sensor fault
+302,D-01,2025-07-25,38,Sensor fault
+303,D-01,2025-10-20,33,Tool wear
+304,D-01,2025-10-24,29,Scheduled maintenance
+305,D-01,2025-10-28,32,Scheduled maintenance
+306,D-01,2025-11-11,48,Material jam
+307,D-01,2025-12-10,33,Sensor fault
+308,D-01,2025-12-15,53,Changeover
+309,D-02,2025-01-07,32,Scheduled maintenance
+310,D-02,2025-01-16,12,Material jam
+311,D-02,2025-02-18,59,Tool wear
+312,D-02,2025-03-21,48,Scheduled maintenance
+313,D-02,2025-04-03,14,Tool wear
+314,D-02,2025-04-11,20,Scheduled maintenance
+315,D-02,2025-04-22,20,Scheduled maintenance
+316,D-02,2025-05-22,11,Material jam
+317,D-02,2025-05-28,34,Scheduled maintenance
+318,D-02,2025-06-05,29,Tool wear
+319,D-02,2025-06-17,24,Scheduled maintenance
+320,D-02,2025-06-17,34,Scheduled maintenance
+321,D-02,2025-06-27,28,Tool wear
+322,D-02,2025-07-09,24,Scheduled maintenance
+323,D-02,2025-07-14,14,Operator unavailable
+324,D-02,2025-07-17,28,Changeover
+325,D-02,2025-07-30,46,Changeover
+326,D-02,2025-08-14,71,Material jam
+327,D-02,2025-08-18,45,Scheduled maintenance
+328,D-02,2025-08-20,10,Sensor fault
+329,D-02,2025-08-28,21,Scheduled maintenance
+330,D-02,2025-09-09,32,Sensor fault
+331,D-02,2025-09-30,43,Tool wear
+332,D-02,2025-10-23,38,Changeover
+333,D-02,2025-11-24,11,Material jam
+334,D-02,2025-11-26,31,Changeover
+335,D-03,2025-02-05,37,Operator unavailable
+336,D-03,2025-02-14,28,Operator unavailable
+337,D-03,2025-03-11,62,Power/utility issue
+338,D-03,2025-03-12,31,Material jam
+339,D-03,2025-03-31,20,Scheduled maintenance
+340,D-03,2025-04-15,42,Power/utility issue
+341,D-03,2025-04-17,36,Changeover
+342,D-03,2025-05-07,19,Operator unavailable
+343,D-03,2025-05-12,36,Operator unavailable
+344,D-03,2025-06-16,53,Tool wear
+345,D-03,2025-07-11,34,Scheduled maintenance
+346,D-03,2025-07-21,20,Scheduled maintenance
+347,D-03,2025-08-06,29,Tool wear
+348,D-03,2025-08-29,45,Operator unavailable
+349,D-03,2025-09-04,21,Scheduled maintenance
+350,D-03,2025-09-25,108,Tool wear
+351,D-03,2025-10-20,25,Changeover
+352,D-03,2025-10-27,15,Material jam
+353,D-03,2025-10-28,100,Operator unavailable
+354,D-03,2025-11-24,28,Tool wear
+355,D-03,2025-11-26,29,Changeover
+356,D-03,2025-12-02,36,Tool wear
+357,D-03,2025-12-16,20,Scheduled maintenance
+358,D-03,2025-12-26,44,Operator unavailable
+359,D-03,2025-12-30,18,Tool wear

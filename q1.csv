@@ -1,0 +1,7 @@
+product_id,product_name,units_produced,units_defective,defect_rate_pct
+P300,Hydraulic Valve Body,176048,6812,3.87
+P600,Cover Plate,318406,6107,1.92
+P200,Motor Housing,200354,3777,1.89
+P100,Steel Bracket,248300,4211,1.7
+P400,Sensor Mount,278092,4648,1.67
+P500,Gear Shaft,185736,2854,1.54
